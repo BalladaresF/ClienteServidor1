@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\reservavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:reservavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\reservavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:reservavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\consultavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:consultavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\consultavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:consultavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\metodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:metodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\reservavehiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|AplicacionCliente.csproj|solutionrelative:reservavehiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs",
+              "RelativeDocumentMoniker": "ReservaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs [Design]",
+              "RelativeToolTip": "ReservaVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T02:44:54.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs",
+              "RelativeDocumentMoniker": "ReservaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs",
+              "RelativeToolTip": "ReservaVehiculos.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T20:46:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeToolTip": "RegistroUsuario.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T00:31:08.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs",
+              "RelativeDocumentMoniker": "ConsultaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs [Design]",
+              "RelativeToolTip": "ConsultaVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T02:45:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs [Design]",
+              "RelativeToolTip": "RegistroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-07T23:56:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "MenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T19:25:06.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs",
+              "RelativeDocumentMoniker": "ConsultaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs",
+              "RelativeToolTip": "ConsultaVehiculos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T20:56:38.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.Designer.cs",
+              "RelativeToolTip": "RegistroUsuario.Designer.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T00:31:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MetodoMain.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MetodoMain.cs",
+              "RelativeDocumentMoniker": "MetodoMain.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MetodoMain.cs",
+              "RelativeToolTip": "MetodoMain.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-07T23:56:56.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs",
+              "RelativeToolTip": "MenuPrincipal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T20:37:11.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2022-08-16T23:01:33.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.Designer.cs",
+              "RelativeToolTip": "MenuPrincipal.Designer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T20:37:16.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservaVehiculos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.Designer.cs",
+              "RelativeDocumentMoniker": "ReservaVehiculos.Designer.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.Designer.cs",
+              "RelativeToolTip": "ReservaVehiculos.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAwHIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-08T20:47:00.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

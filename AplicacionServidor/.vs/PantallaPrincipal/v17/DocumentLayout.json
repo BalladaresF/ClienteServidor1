@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarvehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarvehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarvehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarvehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrartipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrartipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacionservidor\\pantallas\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\pantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\metodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:metodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\metodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultartipovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultartipovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultartipovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultartipovehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrartipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrartipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarvehiculossucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarvehiculossucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarsucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarsucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\reservavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5803C8A6-8996-40D8-86E3-27E2FA3CA008}|..\\AplicacionCliente\\AplicacionCliente.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\aplicacioncliente\\consultavehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarcoberturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarcoberturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarsucursales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\consultarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\consultarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\pantallas\\registrarcobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:pantallas\\registrarcobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}|AplicacionServidor.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PantallaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\PantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\PantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\PantallaPrincipal.cs",
+              "RelativeToolTip": "Pantallas\\PantallaPrincipal.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAswBYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:07:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarTipoVehiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarTipoVehiculo.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarTipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarTipoVehiculo.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarTipoVehiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:32:41.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrarVehiculoSucursal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculoSucursal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarVehiculoSucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculoSucursal.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarVehiculoSucursal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:32:39.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarVehiculoSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculoSucursal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarVehiculoSucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculoSucursal.cs",
+              "RelativeToolTip": "Pantallas\\RegistrarVehiculoSucursal.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:10:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PantallaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\PantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\PantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\PantallaPrincipal.cs [Design]",
+              "RelativeToolTip": "Pantallas\\PantallaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:34:17.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetodoMain.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MetodoMain.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\MetodoMain.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MetodoMain.cs",
+              "RelativeToolTip": "..\\AplicacionCliente\\MetodoMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:10:56.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetodoMain.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\MetodoMain.cs",
+              "RelativeDocumentMoniker": "MetodoMain.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\MetodoMain.cs",
+              "RelativeToolTip": "MetodoMain.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:10:34.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCliente.cs",
+              "RelativeToolTip": "Pantallas\\RegistrarCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:38:41.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarTipoVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarTipoVehiculos.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarTipoVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarTipoVehiculos.cs",
+              "RelativeToolTip": "Pantallas\\ConsultarTipoVehiculos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T03:36:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrarCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCliente.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarCliente.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCliente.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:34:18.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrarTipoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarTipoVehiculo.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarTipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarTipoVehiculo.cs",
+              "RelativeToolTip": "Pantallas\\RegistrarTipoVehiculo.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T03:36:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultarTipoVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarTipoVehiculos.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarTipoVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarTipoVehiculos.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarTipoVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrarVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculo.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarVehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculo.cs",
+              "RelativeToolTip": "Pantallas\\RegistrarVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T03:35:57.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarVehiculo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculo.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarVehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarVehiculo.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarVehiculo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:32:40.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConsultarVehiculosSucursal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarVehiculosSucursal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarVehiculosSucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarVehiculosSucursal.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarVehiculosSucursal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:34:16.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistroUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs [Design]",
+              "RelativeToolTip": "..\\AplicacionCliente\\RegistroUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:09:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\RegistroUsuario.cs",
+              "RelativeToolTip": "..\\AplicacionCliente\\RegistroUsuario.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:36:57.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarClientes.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarClientes.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarClientes.cs",
+              "RelativeToolTip": "Pantallas\\ConsultarClientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:37:18.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConsultarClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarClientes.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarClientes.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarClientes.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:07:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrarSucursal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarSucursal.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarSucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarSucursal.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarSucursal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:26.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservaVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\ReservaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ReservaVehiculos.cs [Design]",
+              "RelativeToolTip": "..\\AplicacionCliente\\ReservaVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:09:37.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\AplicacionCliente\\MenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:08:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultaVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs",
+              "RelativeDocumentMoniker": "..\\AplicacionCliente\\ConsultaVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionCliente\\ConsultaVehiculos.cs [Design]",
+              "RelativeToolTip": "..\\AplicacionCliente\\ConsultaVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:08:04.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsultarCoberturas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarCoberturas.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarCoberturas.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarCoberturas.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarCoberturas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:12.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsultarSucursales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarSucursales.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarSucursales.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarSucursales.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarSucursales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:14.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsultarVehiculos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarVehiculos.cs",
+              "RelativeDocumentMoniker": "Pantallas\\ConsultarVehiculos.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\ConsultarVehiculos.cs [Design]",
+              "RelativeToolTip": "Pantallas\\ConsultarVehiculos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:15.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrarCobertura.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCobertura.cs",
+              "RelativeDocumentMoniker": "Pantallas\\RegistrarCobertura.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Pantallas\\RegistrarCobertura.cs [Design]",
+              "RelativeToolTip": "Pantallas\\RegistrarCobertura.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\AplicacionServidor\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:25:04.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C969BD03-4C8D-42C5-AB58-8F466A6D5B99}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ClasesRentaUned">
+      <HintPath>..\ClasesRentaUned\bin\Debug\ClasesRentaUned.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pantallas\ConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarClientes.Designer.cs">
+      <DependentUpon>ConsultarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarCoberturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarCoberturas.Designer.cs">
+      <DependentUpon>ConsultarCoberturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarSucursales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarSucursales.Designer.cs">
+      <DependentUpon>ConsultarSucursales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarTipoVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarTipoVehiculos.Designer.cs">
+      <DependentUpon>ConsultarTipoVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarVehiculos.Designer.cs">
+      <DependentUpon>ConsultarVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarVehiculosSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\ConsultarVehiculosSucursal.Designer.cs">
+      <DependentUpon>ConsultarVehiculosSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MetodoMain.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Pantallas\RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarCliente.Designer.cs">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarCobertura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarCobertura.Designer.cs">
+      <DependentUpon>RegistrarCobertura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarTipoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarTipoVehiculo.Designer.cs">
+      <DependentUpon>RegistrarTipoVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarVehiculo.Designer.cs">
+      <DependentUpon>RegistrarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarVehiculoSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarVehiculoSucursal.Designer.cs">
+      <DependentUpon>RegistrarVehiculoSucursal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallas\RegistrarSucursal.Designer.cs">
+      <DependentUpon>RegistrarSucursal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Pantallas\ConsultarClientes.resx">
+      <DependentUpon>ConsultarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\ConsultarCoberturas.resx">
+      <DependentUpon>ConsultarCoberturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\ConsultarSucursales.resx">
+      <DependentUpon>ConsultarSucursales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\ConsultarTipoVehiculos.resx">
+      <DependentUpon>ConsultarTipoVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\ConsultarVehiculos.resx">
+      <DependentUpon>ConsultarVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\ConsultarVehiculosSucursal.resx">
+      <DependentUpon>ConsultarVehiculosSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\RegistrarSucursal.resx">
+      <DependentUpon>RegistrarSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Pantallas\RegistrarCliente.resx">
+      <DependentUpon>RegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\RegistrarCobertura.resx">
+      <DependentUpon>RegistrarCobertura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\RegistrarTipoVehiculo.resx">
+      <DependentUpon>RegistrarTipoVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\RegistrarVehiculo.resx">
+      <DependentUpon>RegistrarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallas\RegistrarVehiculoSucursal.resx">
+      <DependentUpon>RegistrarVehiculoSucursal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\ClasesRentaUned.AccesoSQL.datasource" />
+    <None Include="Properties\DataSources\ConsultarVehiculosSucursal.datasource" />
+    <None Include="Properties\DataSources\MetodoMain.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

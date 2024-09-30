@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|c:\\users\\andres b\\desktop\\andresballadares-proyecto\\clasesrentauned\\accesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:accesosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\accesotcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:accesotcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\vehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:vehiculosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\vehiculosucursaldatostotales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:vehiculosucursaldatostotales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\mensajesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:mensajesocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\cobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:cobertura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\valornovalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72298C0-C026-4D5D-BA92-981F8CA55D0B}|ClasesRentaUned.csproj|solutionrelative:valornovalido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoTCP.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\AccesoTCP.cs",
+              "RelativeDocumentMoniker": "AccesoTCP.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\AccesoTCP.cs",
+              "RelativeToolTip": "AccesoTCP.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAA9wFwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-16T22:40:49.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculoSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\VehiculoSucursal.cs",
+              "RelativeDocumentMoniker": "VehiculoSucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\VehiculoSucursal.cs",
+              "RelativeToolTip": "VehiculoSucursal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-16T04:29:51.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\AccesoSQL.cs",
+              "RelativeDocumentMoniker": "AccesoSQL.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\AccesoSQL.cs",
+              "RelativeToolTip": "AccesoSQL.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAUwL8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-14T16:55:10.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculoSucursalDatosTotales.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\VehiculoSucursalDatosTotales.cs",
+              "RelativeDocumentMoniker": "VehiculoSucursalDatosTotales.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\VehiculoSucursalDatosTotales.cs",
+              "RelativeToolTip": "VehiculoSucursalDatosTotales.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-17T18:52:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\TipoVehiculo.cs",
+              "RelativeDocumentMoniker": "TipoVehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\TipoVehiculo.cs",
+              "RelativeToolTip": "TipoVehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-15T20:00:25.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-15T22:40:22.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MensajeSocket.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\MensajeSocket.cs",
+              "RelativeDocumentMoniker": "MensajeSocket.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\MensajeSocket.cs",
+              "RelativeToolTip": "MensajeSocket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-14T17:09:20.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Sucursal.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Sucursal.cs",
+              "RelativeToolTip": "Sucursal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-17T18:52:56.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValorNoValido.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\ValorNoValido.cs",
+              "RelativeDocumentMoniker": "ValorNoValido.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\ValorNoValido.cs",
+              "RelativeToolTip": "ValorNoValido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:34:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:34:56.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cobertura.cs",
+              "DocumentMoniker": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Cobertura.cs",
+              "RelativeDocumentMoniker": "Cobertura.cs",
+              "ToolTip": "C:\\Users\\Andres B\\Desktop\\AndresBalladares-Proyecto\\ClasesRentaUned\\Cobertura.cs",
+              "RelativeToolTip": "Cobertura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-08-14T16:55:15.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\bin\Debug\ClasesRentaUned.dll
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\bin\Debug\ClasesRentaUned.pdb
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\obj\Debug\ClasesRentaUned.csproj.AssemblyReference.cache
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\obj\Debug\ClasesRentaUned.csproj.CoreCompileInputs.cache
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\obj\Debug\ClasesRentaUned.dll
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\obj\Debug\ClasesRentaUned.pdb
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andres B\Desktop\AndresBalladares-Proyecto\ClasesRentaUned\obj\Debug\ClasesRe.B9AC8742.Up2Date
