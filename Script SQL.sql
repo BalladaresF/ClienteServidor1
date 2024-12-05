@@ -1,3 +1,5 @@
+-- Ejecutar este código antes de usar los proyectos --
+
 USE [master]
 GO
 
