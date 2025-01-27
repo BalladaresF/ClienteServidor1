@@ -1,4 +1,5 @@
-Proyecto de aplicación cliente-servidor, dividido en tres subproyectos: Cliente, Servidor y Clases.
+Proyecto de aplicación cliente-servidor, dividido en tres subproyectos: Cliente, Servidor y Clases. 
+El objetivo es observar los movimientos de los clientes desde el servidor.
 
 Para usarse, se realizan los siguientes pasos en el orden establecido:
 1. (Opcional) Abrir proyecto Clases para observar los procedimientos realizados.
